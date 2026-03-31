@@ -1,0 +1,38 @@
+#Langchain core
+langchain
+langchain-core
+langchain-community
+
+#Open AI Integration
+langchain-openai
+
+##Groq integration
+langchain-groq
+
+#Anthropic Integration
+langchain-Anthropic
+
+#Google gemini palm integration
+langchain-google-genai
+google-generativeai
+
+#Huggingface Integration
+langchain-Huggingface
+transformers
+sentence-transformers
+huggingface-hub
+accelerate
+bitsandbytes
+
+#Environment Variable Management
+python-dotenv
+torch
+#Machine Learning Utilities
+numpy
+pandas
+scikit-learn
+ipykernel
+
+#streamlit
+streamlit
+
